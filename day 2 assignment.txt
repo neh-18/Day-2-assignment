@@ -1,0 +1,8 @@
+1. A computer is an electronic device which stores data often in binary form in accordance with some commands into a variable programme.
+2. RAM stands for random access memory which is volatile. It stores data when the device is on but when the device is powered off all the data which is stored in RAM got deleted. So that's why RAM is volatile in nature.
+3. Hard Disk Drive
+4. Keyboard
+5. Output devices are one which gives out the result of the entered input, once it is processed, is called an output device. For example: printer, monitor, speaker
+6.Mouse
+7.Machine language
+8. An iput device sends information to a computer system. For example: Keyboard, Mouse
